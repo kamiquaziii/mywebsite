@@ -500,7 +500,7 @@ figcaption {
   background-color: #474747;
   font-family: 'Space Mono', sans-serif;
   color: #fff;
-  font-size: 17px;
+  font-size: 14px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -621,7 +621,7 @@ figcaption {
 }
 
 .third.cc-social {
-  margin-top:480px;
+  margin-top:550px;
   -webkit-box-align: stretch;
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
@@ -629,13 +629,13 @@ figcaption {
 }
 
 .override {
-  margin-top: 0px;
+  margin-top: -5px;
   margin-bottom: 0px;
   font-family: 'Space Mono', sans-serif;
-  font-size: 20px;
+  font-size: 17px;
   line-height: 20px;
   font-weight: 400;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 }
 
 .half {
