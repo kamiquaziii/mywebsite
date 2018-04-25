@@ -12,12 +12,16 @@
 /* ==========================================================================
    Start of custom Webflow CSS
    ========================================================================== */
+html{
+	overflow-y: scroll;
+}
 body {
   font-family: 'Overpass Mono', sans-serif;
   color: #000;
   font-size: 16px;
   line-height: 1.4em;
   font-weight: 400;
+  overflow-y: scroll;
 }
 
 h1 {
